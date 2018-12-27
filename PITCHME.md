@@ -47,7 +47,7 @@ Ssafy 1기
 @snapend
 
 @snap[east about-team-pic]
-![Taeho](Taeho.jpg)
+![Taeho](Taeho.png)
 @snapend
 
 @snap[south-east text-06]
