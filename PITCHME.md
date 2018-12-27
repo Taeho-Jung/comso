@@ -21,3 +21,8 @@ Lead Developer @snapend
 @snap[east about-team-pic] BERRY @snapend
 
 @snap[south-east text-06] @color[#4487F2](Berry Nguyen) 
+
+@falinkedin 
+Channel Marketing @snapend
+
+@snap[north-east template-note text-white] Team intro template. @snapend
