@@ -99,7 +99,7 @@ Ssafy 1기
 ![Taeho](Taeho.jpg)
 @snapend
 
-@snap[mid text-white span-100]
+@snap[east text-white span-100]
 @size[1em](이름 : 정태호)
 <br>
 @size[1em](성격 : 초긍정)
