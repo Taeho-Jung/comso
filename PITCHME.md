@@ -63,7 +63,7 @@ Ssafy 1기
 @snapend
 
 @snap[east text-white span-100]
-@size[1em](심상우, 곰, 조용함)
+@size[1em](심상우, 곰, 조용함 \n)
 @size[1em](2018년 마지막 지는 해를 볼 예정입니다.)
 @snapend
 
