@@ -74,7 +74,9 @@ Ssafy 1기
 @snap[mid text-white span-100]
 @size[1em](이름 : 권경훈)
 <br>
-@size[1em](별명 : ?)
+@size[1em](성격 : 긍정적)
+<br>
+@size[1em](연말 계획 : git master)
 @snapend
 
 ---?image=/blue.jpg
