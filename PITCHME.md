@@ -72,7 +72,8 @@ Ssafy 1기
 @snapend
 
 @snap[mid text-white span-100]
-@size[1em](Team Comso!)
+@size[1em](이름 : 권경훈)
+@size[1em](별명 : ?)
 @snapend
 
 ---?image=/blue.jpg
