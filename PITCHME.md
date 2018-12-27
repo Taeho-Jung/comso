@@ -96,7 +96,7 @@ Ssafy 1기
 
 ---?image=/blue.jpg
 @snap[west_about-team-pic]
-![Taeho](Taeho.jpg)
+![Taeho](Taeho.png)
 @snapend
 
 @snap[east text-white span-100]
