@@ -56,3 +56,23 @@ Ssafy 1기
 <br>
 Ssafy 1기
 @snapend
+
+---?image=/blue.jpg
+@snap[west about-team-pic]
+![kgh](kgh.jpg)
+@snapend
+
+---?image=/blue.jpg
+@snap[west about-team-pic]
+![kgh](kgh.jpg)
+@snapend
+
+---?image=/blue.jpg
+@snap[west about-team-pic]
+![kgh](kgh.jpg)
+@snapend
+
+---?image=/blue.jpg
+@snap[west about-team-pic]
+![kgh](kgh.jpg)
+@snapend
