@@ -73,8 +73,12 @@ Ssafy 1기
 ![kgh](kgh.jpg)
 @snapend
 
-@snap[east text-white span-100]
-@size[1em](Team Comso!)
+@snap[mid text-white span-100]
+@size[1em](이름 : 권경훈)
+<br>
+@size[1em](성격 : 긍정적)
+<br>
+@size[1em](연말 계획 : git master)
 @snapend
 
 ---?image=/blue.jpg
