@@ -65,7 +65,7 @@ Ssafy 1기
 @snap[east text-white span-100]
 @size[1em](심상우, 곰, 조용함)
 <br>
-@size[1em](술 )
+@size[1em](술 약속)
 @snapend
 
 ---?image=/blue.jpg
