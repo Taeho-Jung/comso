@@ -1,7 +1,7 @@
 ---?image=/blue.jpg
 
 @snap[text-white span-100]
-@size[3em](Comso!)
+@size[3em](Team Comso!)
 @snapend
 
 ---?image=/blue.jpg&color=white&position=top&size=100% 50% 
@@ -12,9 +12,8 @@
 
 @snap[south text-06]
 <br><br>
-@fa[github](심상우)
+@fa[github](심상우 ★팀장★)
 <br>
-★팀장★
 Ssafy 1기
 @snapend
 
