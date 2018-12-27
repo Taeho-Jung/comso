@@ -14,7 +14,7 @@
 <br><br>
 @fa[github](심상우)
 <br>
-팀장
+★팀장★
 Ssafy 1기
 @snapend
 
@@ -33,7 +33,6 @@ Ssafy 1기
 <br><br>
 @fa[github](권경훈)
 <br>
-팀원
 Ssafy 1기
 @snapend
 
@@ -45,7 +44,6 @@ Ssafy 1기
 <br><br>
 @fa[github](전준범)
 <br>
-팀원
 Ssafy 1기
 @snapend
 
@@ -57,6 +55,5 @@ Ssafy 1기
 <br><br>
 @fa[github](정태호)
 <br>
-
 Ssafy 1기
 @snapend
