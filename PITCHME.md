@@ -9,7 +9,7 @@
 @snapend
 
 @snap[west about-team-pic]
-![심상우](/곰_심상우.jpg)
+![곰_심상우](/곰_심상우.jpg)
 @snapend
 
 @snap[south-west text-06]
