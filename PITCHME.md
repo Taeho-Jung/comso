@@ -59,7 +59,11 @@ Ssafy 1기
 
 ---?image=/blue.jpg
 @snap[west about-team-pic]
-![kgh](kgh.jpg)
+![sim_sangwoo](sim_sangwoo.jpg)
+@snapend
+
+@snap[text-white span-100]
+@size[3em](Team Comso!)
 @snapend
 
 ---?image=/blue.jpg
@@ -67,12 +71,24 @@ Ssafy 1기
 ![kgh](kgh.jpg)
 @snapend
 
----?image=/blue.jpg
-@snap[west about-team-pic]
-![kgh](kgh.jpg)
+@snap[text-white span-100]
+@size[3em](Team Comso!)
 @snapend
 
 ---?image=/blue.jpg
 @snap[west about-team-pic]
-![kgh](kgh.jpg)
+![jbb](jbb.jpg)
+@snapend
+
+@snap[text-white span-100]
+@size[3em](Team Comso!)
+@snapend
+
+---?image=/blue.jpg
+@snap[west about-team-pic]
+![Taeho](Taeho.jpg)
+@snapend
+
+@snap[text-white span-100]
+@size[3em](Team Comso!)
 @snapend
