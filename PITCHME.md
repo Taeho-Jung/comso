@@ -71,7 +71,7 @@ Ssafy 1기
 ![kgh](kgh.jpg)
 @snapend
 
-@snap[east text-white span-100]
+@snap[mid text-white span-100]
 @size[1em](Team Comso!)
 @snapend
 
