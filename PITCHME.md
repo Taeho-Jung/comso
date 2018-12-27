@@ -9,7 +9,7 @@
 @snapend
 
 @snap[west about-team-pic]
-![kgh](/kgh.jpg)
+![kgh](kgh.jpg)
 @snapend
 
 @snap[south-west text-06]
@@ -33,7 +33,7 @@ Ssafy 1기
 @snapend
 
 @snap[east about-team-pic]
-![Taeho](/Taeho.jpg)
+![Taeho](Taeho.jpg)
 @snapend
 
 @snap[south-east text-06]
