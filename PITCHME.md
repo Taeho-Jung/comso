@@ -2,7 +2,7 @@
 # 표지
 
 ---?image=/blue.jpg&color=white&position=top&size=100% 50% 
-@title[Meet The Team]
+@title[Comso!]
 
 @snap[north text-white span-100]
 @size[1.5em](Meet The Team)
@@ -42,8 +42,4 @@ Ssafy 1기
 @fa[linkedin](정태호)
 <br>
 Ssafy 1기
-@snapend
-
-@snap[north-east template-note text-white]
-Team intro template.
 @snapend
