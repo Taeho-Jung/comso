@@ -13,7 +13,6 @@
 @snapend
 
 @snap[south-west text-06]
-
 <br><br>
 @fa[github](권경훈)
 <br>
@@ -25,9 +24,19 @@ Ssafy 1기
 @snapend
 
 @snap[south text-06]
-
 <br><br>
-@fa[github](~~~)
+@fa[github](전준범)
+<br>
+Ssafy 1기
+@snapend
+
+@snap[midpoint about-team-pic about-team-pic-center]
+![sim_sangwoo](sim_sangwoo.jpg)
+@snapend
+
+@snap[south text-06]
+<br><br>
+@fa[github]()
 <br>
 Ssafy 1기
 @snapend
@@ -37,7 +46,6 @@ Ssafy 1기
 @snapend
 
 @snap[south-east text-06]
-
 <br><br>
 @fa[github](정태호)
 <br>
