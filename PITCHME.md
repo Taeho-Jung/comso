@@ -104,6 +104,6 @@ Ssafy 1기
 <br>
 @size[1em](성격 : 초긍정)
 <br>
-@size[1em](연말 계획 : )
+@size[1em](연말 계획 : 잠자기)
 @snapend
 
