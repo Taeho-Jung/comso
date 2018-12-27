@@ -9,13 +9,13 @@
 @snapend
 
 @snap[west about-team-pic]
-![곰_심상우](/곰_심상우.jpg)
+![kgh](/kgh.jpg)
 @snapend
 
 @snap[south-west text-06]
-@color[#4487F2](심상우) 
+@color[#4487F2](권경훈) 
 <br><br>
-@fa[twitter](심상우)
+@fa[twitter](권경훈)
 <br>
 Ssafy 1기
 @snapend
