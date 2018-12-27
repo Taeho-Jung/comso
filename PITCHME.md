@@ -99,6 +99,11 @@ Ssafy 1기
 ![Taeho](Taeho.jpg)
 @snapend
 
-@snap[east text-white span-100]
-@size[1em](Team Comso!)
+@snap[mid text-white span-100]
+@size[1em](이름 : 정태호)
+<br>
+@size[1em](성격 : 초긍정)
+<br>
+@size[1em](연말 계획 :)
 @snapend
+
