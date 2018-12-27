@@ -1,7 +1,7 @@
 ---
 # 표지
 
----
+---?image=/blue.jpg&color=white&position=top&size=100% 50% @title[Meet The Team]
 @snap[north text-white span-100] @size[1.5em](Meet The Team) @snapend
 
 @snap[west about-team-pic] WENDY @snapend
