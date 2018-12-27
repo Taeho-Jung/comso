@@ -36,7 +36,7 @@ Ssafy 1기
 
 @snap[south text-06]
 <br><br>
-@fa[github]()
+@fa[github](심상우)
 <br>
 Ssafy 1기
 @snapend
