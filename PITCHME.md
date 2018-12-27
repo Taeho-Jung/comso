@@ -13,11 +13,11 @@
 @snapend
 
 @snap[south-west text-06]
-@color[#4487F2](Wendy Sesay) 
+@color[#4487F2](심상우) 
 <br><br>
-@fa[twitter](wendy)
+@fa[twitter](심상우)
 <br>
-Graphic Designer
+Ssafy 1기
 @snapend
 
 @snap[midpoint about-team-pic about-team-pic-center]
@@ -25,23 +25,23 @@ Graphic Designer
 @snapend
 
 @snap[south text-06]
-@color[#4487F2](Abby Bauer)
+@color[#4487F2](전준범)
 <br><br>
-@fa[github](abbycode)
+@fa[github](~~~)
 <br>
-Lead Developer
+Ssafy 1기
 @snapend
 
 @snap[east about-team-pic]
-![BERRY](template/img/profile/berry.jpg)
+![Taeho](/Taeho.jpg)
 @snapend
 
 @snap[south-east text-06]
-@color[#4487F2](Berry Nguyen)
+@color[#4487F2](정태호)
 <br><br>
-@fa[linkedin](berryngu)
+@fa[linkedin](정태호)
 <br>
-Channel Marketing
+Ssafy 1기
 @snapend
 
 @snap[north-east template-note text-white]
