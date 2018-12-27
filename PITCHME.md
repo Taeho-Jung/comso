@@ -5,7 +5,7 @@
 @title[Comso!]
 
 @snap[north text-white span-100]
-@size[1.5em](Meet The Team)
+@size[1.5em](Comso!)
 @snapend
 
 @snap[west about-team-pic]
