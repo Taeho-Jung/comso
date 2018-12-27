@@ -13,9 +13,9 @@
 @snapend
 
 @snap[south-west text-06]
-@color[#4487F2](권경훈) 
+
 <br><br>
-@fa[twitter](권경훈)
+@fa[github](권경훈)
 <br>
 Ssafy 1기
 @snapend
@@ -25,7 +25,7 @@ Ssafy 1기
 @snapend
 
 @snap[south text-06]
-@color[#4487F2](전준범)
+
 <br><br>
 @fa[github](~~~)
 <br>
@@ -37,9 +37,9 @@ Ssafy 1기
 @snapend
 
 @snap[south-east text-06]
-@color[#4487F2](정태호)
+
 <br><br>
-@fa[linkedin](정태호)
+@fa[github](정태호)
 <br>
 Ssafy 1기
 @snapend
