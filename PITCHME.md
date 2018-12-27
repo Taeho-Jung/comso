@@ -1,5 +1,21 @@
----
-# 표지
+---?image=/blue.jpg&color=white&position=top&size=100% 50% 
+
+@snap[north text-white span-100]
+@size[3em](Comso!)
+@snapend
+
+---?image=/blue.jpg&color=white&position=top&size=100% 50% 
+
+@snap[midpoint about-team-pic about-team-pic-center]
+![sim_sangwoo](sim_sangwoo.jpg)
+@snapend
+
+@snap[south text-06]
+<br><br>
+@fa[github](심상우)
+<br>
+Ssafy 1기
+@snapend
 
 ---?image=/blue.jpg&color=white&position=top&size=100% 50% 
 @title[Comso!]
@@ -26,17 +42,6 @@ Ssafy 1기
 @snap[south text-06]
 <br><br>
 @fa[github](전준범)
-<br>
-Ssafy 1기
-@snapend
-
-@snap[midpoint about-team-pic about-team-pic-center]
-![sim_sangwoo](sim_sangwoo.jpg)
-@snapend
-
-@snap[south text-06]
-<br><br>
-@fa[github](심상우)
 <br>
 Ssafy 1기
 @snapend
