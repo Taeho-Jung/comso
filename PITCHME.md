@@ -9,7 +9,7 @@
 @snapend
 
 @snap[west about-team-pic]
-![심상우](/comso/곰_심상우.jpg)
+![심상우](/곰_심상우.jpg)
 @snapend
 
 @snap[south-west text-06]
@@ -21,18 +21,29 @@ Graphic Designer
 @snapend
 
 @snap[midpoint about-team-pic about-team-pic-center]
-![jb] @snapend
+![jbb](jbb.jpg)
+@snapend
 
-@snap[south text-06] @color[#4487F2](Abby Bauer) 
+@snap[south text-06]
+@color[#4487F2](Abby Bauer)
+<br><br>
+@fa[github](abbycode)
+<br>
+Lead Developer
+@snapend
 
-@fagithub 
-Lead Developer @snapend
+@snap[east about-team-pic]
+![BERRY](template/img/profile/berry.jpg)
+@snapend
 
-@snap[east about-team-pic] BERRY @snapend
+@snap[south-east text-06]
+@color[#4487F2](Berry Nguyen)
+<br><br>
+@fa[linkedin](berryngu)
+<br>
+Channel Marketing
+@snapend
 
-@snap[south-east text-06] @color[#4487F2](Berry Nguyen) 
-
-@falinkedin 
-Channel Marketing @snapend
-
-@snap[north-east template-note text-white] Team intro template. @snapend
+@snap[north-east template-note text-white]
+Team intro template.
+@snapend
