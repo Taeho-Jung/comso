@@ -87,7 +87,11 @@ Ssafy 1기
 @snapend
 
 @snap[east text-white span-100]
-@size[1em](Team Comso!)
+@size[1em](이름 : 전준범)
+<br>
+@size[1em](별명 : 준뱀)
+<br>
+@size[1em](Git 너무 어렵다~~~)
 @snapend
 
 ---?image=/blue.jpg
