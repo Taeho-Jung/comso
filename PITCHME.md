@@ -1,4 +1,4 @@
----?image=/blue.jpg&color=white&position=top&size=100% 50% 
+---?image=/blue.jpg
 
 @snap[north text-white span-100]
 @size[3em](Comso!)
@@ -7,7 +7,7 @@
 ---?image=/blue.jpg&color=white&position=top&size=100% 50% 
 
 @snap[midpoint about-team-pic about-team-pic-center]
-![sim_sangwoo](sim_sangwoo.jpg)
+![sim_sangwoo](sim_sangwoo.JPG)
 @snapend
 
 @snap[south text-06]
